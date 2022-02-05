@@ -8,3 +8,4 @@
 Artur201206a/Artur201206a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+10101010101010001110101010101010101010100000010001010101010111000000
